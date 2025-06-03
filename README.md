@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey, its me
 
+In a relationship with typescript (its *super* serious) 
+
+[![aerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
 <!--
 **aeringamaroff/aeringamaroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
