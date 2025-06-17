@@ -2,6 +2,9 @@
 
 In a relationship with typescript (its *super* serious) 
 
+- 🔭 I’m currently working on an art commissioning website
+- 🌱 I’m currently learning React!
+
 [![aerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
