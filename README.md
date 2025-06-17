@@ -1,9 +1,9 @@
 ## Hey, its me
 
-In a relationship with typescript (its *super* serious) 
+In a relationship with typescript (it's *super* serious) 
 
-- 🔭 I’m currently working on an art commissioning website
-- 🌱 I’m currently learning React!
+🔭 I’m currently working on an art commissioning website (it's private so ask me about it!)
+🌱 I’m learning React and Svelte
 
 [![aerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
 
