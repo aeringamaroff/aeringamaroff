@@ -2,12 +2,14 @@
 
 In a relationship with typescript (it's *super* serious) 
 
-🔭 I’m currently working on an art commissioning website (it's private so ask me about it!)
+🔭 I’m currently working on an art commissioning website (it's a private repo so ask me about it!)
+
 🌱 I’m learning React and Svelte
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
 
 [![aerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeringamaroff&theme=radical)](https://github.com/aeringamaroff/github-readme-stats)
 <!--
 **aeringamaroff/aeringamaroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
